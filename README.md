@@ -1,5 +1,10 @@
 # java-kata
 
+[![Build](https://github.com/J-R-Oliver/java-kata/actions/workflows/build.yaml/badge.svg)](https://github.com/J-R-Oliver/java-kata/actions/workflows/build.yaml)
+[![Java Version](https://img.shields.io/badge/Java-v17-informational)](https://openjdk.org/projects/jdk/17/)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 <table>
 <tr>
 <td>
