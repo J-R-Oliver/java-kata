@@ -11,6 +11,12 @@ public class Kata {
 
   private Kata() {}
 
+  /**
+   * Sums an array of doubles.
+   *
+   * @param numbers array of doubles
+   * @return the sum of numbers
+   */
   public static double sum(double[] numbers) {
     return Arrays.stream(numbers).sum();
   }
